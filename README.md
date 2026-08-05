@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mí
 
-Soy ingeniero de software con más de 5 años de experiencia, especializado en desarrollo backend, bases de datos y aplicaciones de entorno Windows.
+Soy ingeniero de software con más de 5 años de experiencia, especializado en desarrollo backend, bases de datos y aplicaciones de escritorio.
 
 Disfruto especialmente construyendo soluciones desde cero, donde puedo definir una base sólida desde el inicio. Aun así, también tengo experiencia en evolución, mantenimiento y mejora de sistemas existentes.
 
@@ -57,7 +57,7 @@ Mi día a día combina:
 
 > “Un buen desarrollo empieza mucho antes de escribir código.”
 
-Me considero un perfil **pragmático pero perfeccionista**, con foco en:
+Me considero un perfil que pone el foco en:
 
 - ⚡ Rendimiento
 - 🎯 Claridad en las soluciones
@@ -70,7 +70,6 @@ Me considero un perfil **pragmático pero perfeccionista**, con foco en:
 
 - 💻 Software Engineer y Data Analyst en INAUTEC SL
 - 🎓 Cursando un máster en desarrollo de software con IA
-- 🧠 Administrador de CMS y CRM.
 - 🔐 Interesado en Ciberseguridad y Hacking Ético
 
 ---
